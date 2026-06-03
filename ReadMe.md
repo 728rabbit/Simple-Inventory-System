@@ -1,3 +1,5 @@
+![Description](idea.png)
+
 A simple, easy-to-use inventory management tool designed specifically for small businesses, retail stores, or personal use.
 
 ## Key Features:
